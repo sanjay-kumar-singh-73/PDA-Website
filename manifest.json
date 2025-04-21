@@ -1,0 +1,21 @@
+{
+    "name": "PDA Implement",
+    "short_name": "PWA Website",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "whitesmoke",
+    "theme_color": "yellowgreen",
+    "icons": [
+      {
+        "src": "desktop.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "mobile.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
